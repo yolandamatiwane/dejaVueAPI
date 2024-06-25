@@ -55,12 +55,44 @@
     ],
     "friends":[
         {
-            "id":"",
-            "firstName":"",
-            "lastName":"",
-            "gender":"",
-            "profile":"",
+            "id":"1",
+            "firstName":"Akhona",
+            "lastName":"Mjikelo",
+            "gender":"Female",
+            "profile":"mj",
+            "contactDetails":"0213456789"
+        },
+        {
+            "id":"2",
+            "firstName":"Lebu",
+            "lastName":"Mthombothi",
+            "gender":"Female",
+            "profile":"ledza",
+            "contactDetails":"0872135469"
+        },
+        {
+            "id":"3",
+            "firstName":"Sihlandlo",
+            "lastName":"Makhumsha",
+            "gender":"Male",
+            "profile":"bhut'omdala",
+            "contactDetails":"0721569872"
+        },
+        {
+            "id":"4",
+            "firstName":"Ntando",
+            "lastName":"Mabuto",
+            "gender":"Male",
+            "profile":"ntara_wabantwana",
             "contactDetails":""
+        },
+        {
+            "id":"5",
+            "firstName":"Nazneen",
+            "lastName":"Abrahams",
+            "gender":"Female",
+            "profile":"nazAbrahams",
+            "contactDetails":"0215698743"
         }
     ]
 }

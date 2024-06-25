@@ -93,6 +93,14 @@
             "gender":"Female",
             "profile":"nazAbrahams",
             "contactDetails":"0215698743"
+        },
+        {
+            "id":"6",
+            "firstName":"Gwiba",
+            "lastName":"Mabandla",
+            "gender":"Male",
+            "profile":"gwistar",
+            "contactDetails":"0218918743"
         }
     ]
 }
